@@ -1,5 +1,5 @@
 # DDP
-This repository contains the shiny app for John Hopkin's Developing Data Products Course. 
+This repository contains the Shiny App for JHU Developing Data Products Course Project. 
 
 The objective of this simple shiny app is to :
 
