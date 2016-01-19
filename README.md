@@ -11,3 +11,11 @@ countries in the European monerary union
 - Display a Conversion Rate Table (note: display round to 2 digits)
 
 - Provide Instruction on how to use this app.
+
+Shiny App Url: <https://foohp.shinyapps.io/EuroConverter/>
+
+Presentation Slide can be accessed via :
+
+1. <http://rpubs.com/Fhp88/143966>
+
+2. <http://foohp.github.io/DDP>
